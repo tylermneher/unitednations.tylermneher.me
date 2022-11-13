@@ -13,7 +13,7 @@ module.exports = {
     siteTitle: `Saint Kitts and Nevis at the UN GA`,
     siteTitleAlt: `Saint Kitts and Nevis at the UN GA`,
     siteHeadline: `aint Kitts and Nevis at the UN GA`,
-    siteUrl: `https://skn-un.tylermneher.me/`,
+    siteUrl: `https://unitednations.tylermneher.me/`,
     siteDescription: `Saint Kitts and Nevis at the UN GA.`,
     siteImage: `/banner.jpg`,
     author: `@tylermneher`,
