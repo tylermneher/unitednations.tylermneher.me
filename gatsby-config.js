@@ -25,9 +25,7 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         navigation: [
-          { name: `Projects`, slug: `/projects` },
-          { name: `Art`, slug: `/art` },
-          { name: `About`, slug: `/about` },
+          { name: `SKN UN GA`, slug: `/sknunga` },
         ],
       },
     },
