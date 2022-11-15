@@ -12,7 +12,7 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-jodie/gatsby-config.js
     siteTitle: `Saint Kitts and Nevis at the UN GA`,
     siteTitleAlt: `Saint Kitts and Nevis at the UN GA`,
-    siteHeadline: `aint Kitts and Nevis at the UN GA`,
+    siteHeadline: `Saint Kitts and Nevis at the UN GA`,
     siteUrl: `https://unitednations.tylermneher.me/`,
     siteDescription: `Saint Kitts and Nevis at the UN GA.`,
     siteImage: `/banner.jpg`,
@@ -25,7 +25,7 @@ module.exports = {
       // See the theme's README for all available options
       options: {
         navigation: [
-          { name: `SKN UN GA`, slug: `/sknunga` },
+          { name: `SKN UN GA`, slug: `/sknungaNav` },
         ],
       },
     },
